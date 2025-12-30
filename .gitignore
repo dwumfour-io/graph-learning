@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.log
+appsettings.json
+appsettings.*.json
+!appsettings.template.json
+.DS_Store
+Thumbs.db
